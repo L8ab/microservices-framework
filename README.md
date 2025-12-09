@@ -1,2 +1,2 @@
 # microservices-framework
-Professional microservices-framework project by L8ab
+Professional microservices-framework project by L8ab Systems
